@@ -14,6 +14,13 @@ It allows users to search for movies, filter by genre, maintain watchlists, mark
   - Remove movies from the list if you change your mind.
 - Show random movies on application start.
 - Full-screen immersive UI using Tkinter Canvas, Frames, and Scrollbars.
+
+## Clone
+Do the git clone of the repo 
+```bash
+git clone https://github.com/Parth050812/MovieReview.git
+cd MovieReview
+```
 ## Dependencies
 Before running the project, install the following Python libraries:
 ```bash
